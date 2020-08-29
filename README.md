@@ -5,6 +5,8 @@ Material para a Disciplina PUC-Rio (ENG1000) Introdução à Engenharia da Compu
 * MenuButtons - Exemplo de como criar menus no Playlib para os jogos
 * TileMap - Exemplo do uso de tilemaps no Playlib
 
+http://augustobaffa.pro.br/site/cursos-e-material-de-aula/
+https://www.youtube.com/augusto_baffa
 ---
 
 MIT License
